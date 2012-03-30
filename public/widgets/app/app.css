@@ -1,0 +1,52 @@
+.feathertutorials_app .topBar
+{
+  height: 75px;
+  width: 100%;
+  display: table;
+  border-bottom: 1px solid #000;
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFFF99), to(#FFF));
+  background: -moz-linear-gradient(top,  #FFFF99,  #FFF);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFF99', endColorstr='#FFFFFF');
+}
+
+.feathertutorials_app h1
+{
+  font-family: "AR Darling", "AR DARLING", sans-serif;
+  font-size: 60px;
+  display: table-cell;
+  vertical-align: middle;
+  text-align:center;
+  max-height: 50px;
+}
+
+.feathertutorials_app .lineDivider
+{
+  border-top: 5px solid #F00;
+}
+
+.feathertutorials_app .leftColumn
+{
+  width: 200px;
+  min-height: 800px;
+  float: left;
+}
+
+.feathertutorials_app .rightColumn
+{
+  border: 3px solid #F00;
+  width: 785px;
+  min-height: 800px;
+  margin-left: 220px;
+}
+
+.feathertutorials_app .contentInfo
+{
+  margin: 0 auto;
+  text-align: center;
+  max-width: 1000px;
+}
+
+.feathertutorials_app .clear
+{
+  clear: both;
+}

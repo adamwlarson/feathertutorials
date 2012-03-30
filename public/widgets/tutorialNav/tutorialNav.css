@@ -1,0 +1,19 @@
+.feathertutorials_tutorialNav h3
+{
+  font-family: "AR Darling", "AR DARLING", sans-serif;
+  font-size: 30px;
+  display: table-cell;
+  vertical-align: middle;
+  text-align:center;
+  max-height: 50px;
+}
+
+.feathertutorials_tutorialNav .tutLinkTxt
+{
+  font-family: "AR Darling", "AR DARLING", sans-serif;
+  font-size: 20px;
+  vertical-align: middle;
+  text-align:left;
+  margin-left: 20px;
+  cursor: pointer;
+}
