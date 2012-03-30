@@ -37,7 +37,6 @@
 
 .feathertutorials_app .rightColumn
 {
-  border: 3px solid #F00;
   width: 785px;
   min-height: 800px;
   margin-left: 220px;
@@ -75,4 +74,15 @@
   text-align:left;
   margin-left: 20px;
   cursor: pointer;
+}
+
+/* ========== content.css ========== */
+
+
+
+/* ========== tutorial1.css ========== */
+
+.feathertutorials_tutorial1 p
+{
+  text-align: left;
 }
